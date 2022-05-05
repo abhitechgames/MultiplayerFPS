@@ -2,7 +2,7 @@
 
 In Detailed Summary / Tips in written C# scripts
 
-Integration Plugin for FPS Game using <Photon Network>(); 
+Integration Plugin for FPS Game using Photon Network(); 
 #Duo Battle Mode
   
 ![image](https://user-images.githubusercontent.com/59042408/166905413-4d95ca9f-dc55-4019-904d-405a505e33e6.png)
