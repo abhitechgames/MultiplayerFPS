@@ -4,6 +4,8 @@
 
 #### Made by ATG Studios aka AbhiTechGames
 
+[Preview Video](https://assetstore.unity.com/packages/2d/gui/icons/magical-potions-and-effects-pack-196598) 
+
 In Detailed Summary / Tips in written C# scripts
 
 Integration Plugin for FPS Game using Photon Network(); 
